@@ -1,0 +1,25 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "cypress in-depth",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yenn-git/Practice.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Kasia G-J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yenn-git/Practice/issues"
+  },
+  "homepage": "https://github.com/Yenn-git/Practice#readme",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}
